@@ -1,0 +1,5 @@
+﻿  LCS.cpp
+D:\CS301\LCS\LCS\LCS.cpp(16,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CS301\LCS\LCS\LCS.cpp(17,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\CS301\LCS\LCS\LCS.cpp(122,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  LCS.vcxproj -> D:\CS301\LCS\x64\Debug\LCS.exe
